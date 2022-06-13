@@ -1,0 +1,17 @@
+C:\Users\Victoria\Desktop\SmartShop\src\SmartShop.Data\obj\Debug\net6.0\SmartShop.Data.csproj.AssemblyReference.cache
+C:\Users\Victoria\Desktop\SmartShop\src\SmartShop.Data\obj\Debug\net6.0\SmartShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoria\Desktop\SmartShop\src\SmartShop.Data\obj\Debug\net6.0\SmartShop.Data.AssemblyInfoInputs.cache
+C:\Users\Victoria\Desktop\SmartShop\src\SmartShop.Data\obj\Debug\net6.0\SmartShop.Data.AssemblyInfo.cs
+C:\Users\Victoria\Desktop\SmartShop\src\SmartShop.Data\obj\Debug\net6.0\SmartShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\Desktop\SmartShop\src\SmartShop.Data\bin\Debug\net6.0\SmartShop.Data.deps.json
+C:\Users\Victoria\Desktop\SmartShop\src\SmartShop.Data\bin\Debug\net6.0\SmartShop.Data.dll
+C:\Users\Victoria\Desktop\SmartShop\src\SmartShop.Data\bin\Debug\net6.0\SmartShop.Data.pdb
+C:\Users\Victoria\Desktop\SmartShop\src\SmartShop.Data\bin\Debug\net6.0\SmartShop.Business.dll
+C:\Users\Victoria\Desktop\SmartShop\src\SmartShop.Data\bin\Debug\net6.0\SmartShop.Business.pdb
+C:\Users\Victoria\Desktop\SmartShop\src\SmartShop.Data\obj\Debug\net6.0\SmartShop.Data.csproj.CopyComplete
+C:\Users\Victoria\Desktop\SmartShop\src\SmartShop.Data\obj\Debug\net6.0\SmartShop.Data.dll
+C:\Users\Victoria\Desktop\SmartShop\src\SmartShop.Data\obj\Debug\net6.0\refint\SmartShop.Data.dll
+C:\Users\Victoria\Desktop\SmartShop\src\SmartShop.Data\obj\Debug\net6.0\SmartShop.Data.pdb
+C:\Users\Victoria\Desktop\SmartShop\src\SmartShop.Data\obj\Debug\net6.0\ref\SmartShop.Data.dll
+C:\Users\Victoria\Desktop\SmartShop\src\SmartShop.Data\bin\Debug\net6.0\SmartShop.Data.runtimeconfig.json
+C:\Users\Victoria\Desktop\SmartShop\src\SmartShop.Data\obj\Debug\net6.0\SmartShop.Data.genruntimeconfig.cache
