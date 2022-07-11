@@ -1,6 +1,6 @@
 ![smartShopWeb](https://user-images.githubusercontent.com/96137264/173957194-775cb879-fa0a-48ee-a769-27e0452ed8ac.jpeg)
 
-#
+# SmartShop
 
 SmartShop is a Web API using the REST architecture that aims to practice and improve the practices acquired through immersive courses focused on the domain of REST architecture, it was built using methods such as:
 
@@ -30,8 +30,6 @@ In the documentation, versioning and monitoring part, the following technologies
 The design may undergo updates and changes as new techniques are acquired and implemented.
 
 #
-
-# SmartShop
 
 SmartShop é uma Web API utilizando a arquitetura REST que tem como objetivo praticar e aprimorar as práticas adquiridas por meio de cursos imersivos focados no domínio da arquitetura REST, foi construído utilizando métodos como:
 
