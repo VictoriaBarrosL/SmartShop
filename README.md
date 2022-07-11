@@ -1,34 +1,5 @@
 ![smartShopWeb](https://user-images.githubusercontent.com/96137264/173957194-775cb879-fa0a-48ee-a769-27e0452ed8ac.jpeg)
 
-# SmartShop
-
-SmartShop é uma Web API utilizando a arquitetura REST que tem como objetivo praticar e aprimorar as práticas adquiridas por meio de cursos imersivos focados no domínio da arquitetura REST, foi construído utilizando métodos como:
-
-- Implementação de DTO's (ViewModels);
-- Modelagem das Controllers;
-- Teste utilizando a ferramenta Postman;
-- Padronizando erros de validação e de négocios;
-- Upload de arquivos grande com IFormFile;
-- Desenvolvimento de relacionamentos (ex.: 1-1, 1-n) entre entidades na criação de tabelas Db;
-- Entidades mapeadas em ViewModels com AutoMapper;
-
-A API conta também com implementação de métodos e tecnologias que o Framework dispõe para garantir a segurança da mesma, tais como:
-
-- ASP.NET Identity;
-- Controller de autenticação;
-- Customização dos erros do Identity;
-- JWT;
-- CORS;
-
-Na parte de documentação, versionamento e monitoramento, foram implementadas as seguintes tecnologias:
-
-- Documentação com Swagger;
-- Autorização via JWT no Swagger;
-- Implementação de Loggin;
-- Monitoramento da saúde da API com HealthcChecks;
-
-O projeto pode sofrer atualizações e alterações à medida que novas técnicas são adquiridas e implementadas.
-
 #
 
 SmartShop is a Web API using the REST architecture that aims to practice and improve the practices acquired through immersive courses focused on the domain of REST architecture, it was built using methods such as:
@@ -57,3 +28,34 @@ In the documentation, versioning and monitoring part, the following technologies
 - API health monitoring with HealthcChecks;
 
 The design may undergo updates and changes as new techniques are acquired and implemented.
+
+#
+
+# SmartShop
+
+SmartShop é uma Web API utilizando a arquitetura REST que tem como objetivo praticar e aprimorar as práticas adquiridas por meio de cursos imersivos focados no domínio da arquitetura REST, foi construído utilizando métodos como:
+
+- Implementação de DTO's (ViewModels);
+- Modelagem das Controllers;
+- Teste utilizando a ferramenta Postman;
+- Padronizando erros de validação e de négocios;
+- Upload de arquivos grande com IFormFile;
+- Desenvolvimento de relacionamentos (ex.: 1-1, 1-n) entre entidades na criação de tabelas Db;
+- Entidades mapeadas em ViewModels com AutoMapper;
+
+A API conta também com implementação de métodos e tecnologias que o Framework dispõe para garantir a segurança da mesma, tais como:
+
+- ASP.NET Identity;
+- Controller de autenticação;
+- Customização dos erros do Identity;
+- JWT;
+- CORS;
+
+Na parte de documentação, versionamento e monitoramento, foram implementadas as seguintes tecnologias:
+
+- Documentação com Swagger;
+- Autorização via JWT no Swagger;
+- Implementação de Loggin;
+- Monitoramento da saúde da API com HealthcChecks;
+
+O projeto pode sofrer atualizações e alterações à medida que novas técnicas são adquiridas e implementadas.
